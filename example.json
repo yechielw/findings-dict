@@ -1,0 +1,11 @@
+[
+ {
+   "type": "stings",
+   "Technical risk:": "stings",
+   "Privileges required:": "strings",
+   "Description": "string",
+   "Choose an item.": "string",
+   "Proof of concept": "string",
+   "Potential impact": "string",
+   "Recommendation": "string"
+ }
